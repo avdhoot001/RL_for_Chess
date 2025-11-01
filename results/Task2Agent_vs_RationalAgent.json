@@ -1,0 +1,21 @@
+{
+    "Task2Agent": {
+        "wins_white": 2,
+        "wins_black": 0,
+        "total_wins": 2,
+        "total_time": 0.23446619494643528,
+        "moves": 1570,
+        "avg_time": 0.00014934152544358935
+    },
+    "RationalAgent": {
+        "wins_white": 36,
+        "wins_black": 42,
+        "total_wins": 78,
+        "total_time": 224.79058620794967,
+        "moves": 1604,
+        "avg_time": 0.14014375698749978
+    },
+    "draws": 20,
+    "avg_game_length": 15.0,
+    "avg_game_length_plies": 31.74
+}

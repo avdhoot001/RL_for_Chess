@@ -1,0 +1,21 @@
+{
+    "BaseAgent": {
+        "wins_white": 17,
+        "wins_black": 15,
+        "total_wins": 32,
+        "total_time": 7.467184488778003,
+        "moves": 882,
+        "avg_time": 0.00846619556550794
+    },
+    "RandomAgent": {
+        "wins_white": 0,
+        "wins_black": 2,
+        "total_wins": 2,
+        "total_time": 0.46177329893544083,
+        "moves": 835,
+        "avg_time": 0.0005530219148927435
+    },
+    "draws": 66,
+    "avg_game_length": 8.0,
+    "avg_game_length_plies": 17.17
+}

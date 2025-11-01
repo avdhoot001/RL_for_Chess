@@ -1,0 +1,21 @@
+{
+    "MiniMaxAgent": {
+        "wins_white": 1,
+        "wins_black": 0,
+        "total_wins": 1,
+        "total_time": 1.0005533089642995,
+        "moves": 144,
+        "avg_time": 0.006948286867807635
+    },
+    "RationalAgent": {
+        "wins_white": 0,
+        "wins_black": 3,
+        "total_wins": 3,
+        "total_time": 45.561979629972484,
+        "moves": 144,
+        "avg_time": 0.31640263631925336
+    },
+    "draws": 6,
+    "avg_game_length": 14.0,
+    "avg_game_length_plies": 28.8
+}

@@ -1,0 +1,21 @@
+{
+    "HeuristicAgent": {
+        "wins_white": 0,
+        "wins_black": 1,
+        "total_wins": 1,
+        "total_time": 0.2690613420199952,
+        "moves": 1578,
+        "avg_time": 0.0001705078213054469
+    },
+    "RandomAgent": {
+        "wins_white": 1,
+        "wins_black": 0,
+        "total_wins": 1,
+        "total_time": 0.5165725608676439,
+        "moves": 1584,
+        "avg_time": 0.0003261190409517954
+    },
+    "draws": 98,
+    "avg_game_length": 15.0,
+    "avg_game_length_plies": 31.62
+}
